@@ -1,3 +1,4 @@
 Hello first line.
 Hi second line.
 Nice now we have three lines.
+fourth line added.
